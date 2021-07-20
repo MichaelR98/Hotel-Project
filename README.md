@@ -1,5 +1,5 @@
 # Hotel Dashboard Project
-* Using a database on hotels that I found I wanted to look into PowerBi and see if I was more intuitive for me that Tableau
+* Using a database on hotels that I found I wanted to look into PowerBi and see if it was more intuitive for me that Tableau
 
 # Goals of the Dashboard
 * Find out if the revenue of the hotels were growing by year. 
